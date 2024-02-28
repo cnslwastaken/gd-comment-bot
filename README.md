@@ -9,10 +9,10 @@ So i made a basic public version of this that only supports 1 account at a time 
 Get node.js at https://nodejs.org
 Clone/Download the project and extract it
 
-### IMPORTANT: setup your Geometry Dash account in config.yml
+IMPORTANT: setup your Geometry Dash account in config.yml
 
-## Running for the first time
-### Run the "setup.bat" or enter "npm install" in a terminal in the current directory
+## Running for the first time?
+Run the "setup.bat" or enter "npm install" in a terminal in the current directory
 
 Run "start.bat" and enjoy!
 
