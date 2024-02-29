@@ -18,7 +18,7 @@ console.log("Warning: If you abuse this tool, GD Mods ".red + "WILL".white.bgRed
 let config;
 
 try {
-    config = yaml.load(fs.readFileSync("./config.yml", "utf8"));
+    config = yaml.load(fs.readFileSync(process.cwd() + "/config.yml", "utf8"));
 }
 catch(error) {
     throw new Error(`Could load config, make sure it's formatted correctly:\n${error}`);
