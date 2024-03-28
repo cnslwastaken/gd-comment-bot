@@ -1,21 +1,14 @@
 account:
-  username: Replace with your actual username
-  password: Replace with your actual password
-  # ^ 
-  # | Put your account username and password here
+  username: YourActualUsername
+  password: YourActualPassword
+
 messages:
-  - Hiiii im a girl, join my discord server at discord,gg/robtopgames {random}
-  - UwU i will kiss u if u join discord,gg/robtopgames (nyaaa~ im a girl btw) {random}
-  - I love ppl who join discord,gg/robtopgames so much (im a girl btw) {random}
-  # - This is a test message
-  # You can add as many messages as u want
-  # Pro tip: {random} will be replaced with random characters to prevent being detected easily
+  - "Hey, join my Discord server at discord.gg/robtopgames {random}"
+  - "Join discord.gg/robtopgames and receive a virtual kiss! (◕‿◕✿) {random}"
+  - "Love having new members on discord.gg/robtopgames! (◕‿◕❤️) {random}"
 
-random_length: 5
-# How many random characters should be added to the message in {random}
+random_length: 5  # Adjust based on your needs, higher values provide more variation
 
-comment_upload_delay: 30
-# Delay in seconds between comment uploads, don't go under 25 with a single IP
+comment_upload_delay: 30  # Stick to this or higher to avoid detection
 
-percentage: 0
-# Percentage of completion displayed on the comment, set it to 0 if you don't want it to be displayed, don't set to above 100
+percentage: 0  # Set to 0 if you don't want any completion percentage displayed
