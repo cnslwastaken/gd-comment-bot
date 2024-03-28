@@ -20,4 +20,4 @@ If you've encountered the "girl" bots on Geometry Dash that direct you to https:
 - Join my Discord server at [https://discord.gg/robtopgames](https://discord.gg/robtopgames) and DM "cnsl_" or send me a friend request directly.
 
 ## Credits
-Feel free to use, modify, and distribute this project according to your needs, but please remember to give credit to me, cnsl_!
+Feel free to use, modify, and distribute this project according to your needs, but please remember to give credit to me, cnsl!
