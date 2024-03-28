@@ -1,6 +1,6 @@
 # GD Comment Bot
 
-A Geometry Dash bot that automatically comments on recent tab levels, created with care by cnsl_.
+A Geometry Dash bot that automatically comments on recent tab levels, created with care by cnsl.
 
 ## Introduction
 If you've encountered the "girl" bots on Geometry Dash that direct you to https://discord.gg/robtopgames, then you might be familiar with me. This is a simplified public version of that bot, designed to handle one account at a time without the need for a proxy.
