@@ -1,9 +1,9 @@
 {
   "name": "gd-comment-bot",
-  "author": "cnsl/cnsl_/cnslwastaken",
   "version": "1.0.0",
+  "description": "A basic Geometry Dash bot that comments on recent tab levels.",
+  "author": "cnsl <cnsl_/cnslwastaken>",
   "type": "module",
-  "description": "A basic Geometry Dash bot that will comment on recent tab levels, made with love by cnsl_",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
