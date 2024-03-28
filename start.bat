@@ -1,2 +1,6 @@
+@echo off
+echo Starting...
 node .
-pause>nul
+
+echo Press any key to exit.
+pause >nul
